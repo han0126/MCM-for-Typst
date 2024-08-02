@@ -195,7 +195,7 @@
 ```
 
 ### 文献文件
-
+// refs.bib
 ```latex
 @article{ wx1,
 author = { 田凤调 },
